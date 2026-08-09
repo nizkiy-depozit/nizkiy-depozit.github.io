@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: nizkiy-depozit.github.io
+Sitemap: https://nizkiy-depozit.github.io/sitemap.xml
